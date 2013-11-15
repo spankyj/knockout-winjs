@@ -1,4 +1,10 @@
-﻿(function () {
+﻿/*!
+ * knockout-winjs
+ *
+ * Copyright 2013 Josh Williams and other contributors
+ * Released under the MIT license
+ */
+(function () {
     "use strict";
 
     function addBindings(controls) {
