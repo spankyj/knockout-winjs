@@ -1,4 +1,4 @@
 knockout-winjs
 ==============
 
-Project to smooth the AngularJS/WinJS interaction
+Project to smooth the KnockoutJS/WinJS interaction
